@@ -3,8 +3,8 @@
 - Cursando Técnico em Multimídia no SENAI de Informática "Paulo Skaf"
 <div align="center">
   <a href="https://github.com/kauard0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauard0&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauard0&layout=compact&langs_count=6&theme=transparent"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=kauard0&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauard0&layout=compact&langs_count=6&theme=transparent"/>
 </div>
     
 ## Ferramentas e Tecnologias
